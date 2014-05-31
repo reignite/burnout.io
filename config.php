@@ -3,9 +3,9 @@
 /*
 // Override any of the default settings below:
 
-$config['site_title'] = 'Pico';			// Site title
+$config['site_title'] = 'Burnout.io';			// Site title
 $config['base_url'] = ''; 				// Override base URL (e.g. http://example.com)
-$config['theme'] = 'default'; 			// Set the theme (defaults to "default")
+$config['theme'] = 'burnout'; 			// Set the theme (defaults to "default")
 $config['date_format'] = 'jS M Y';		// Set the PHP date format
 $config['twig_config'] = array(			// Twig settings
 	'cache' => false,					// To enable Twig caching change this to CACHE_DIR
