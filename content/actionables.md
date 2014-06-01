@@ -33,6 +33,10 @@ talking it out with management and coworkers.
 Say "no" if a request is unreasonable, but try to provide feedback in order to
 prevent the pattern from continuing. 
 
+One sneaky way that managers turn the reasonable into the impossible is
+to talk you down on your estimates, e.g., "Will it really take that long?". 
+Stick by your estimates.
+
 ### "Yes, and..."
 If "no" doesn't work, try using the <a href="http://www.huffingtonpost.com/
 liz-orsquo/cant-say-no-say-yes-instead_b_4583052.html" target="_blank">"Yes, 
@@ -48,6 +52,9 @@ For example:
 * "Yes, we can plan on adding Project X to our responsibilities, and we can
   take time tomorrow to plan the hiring we'll have to do in order to meet 
   that goal."
+
+An alternative way of phrasing "Yes, and..." is to say, "You can have everything
+you want, just not all at once."
 
 ### Let it fail.
 If your cries for change aren't working, allow the consequences (downtime, no
