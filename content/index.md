@@ -14,9 +14,11 @@ including stress and anxiety, loss of motivation and confidence, or even
 degradation of physical health.
 
 ## Why?
-This started as an open space discussion at the 2014 DevOpsDays 
-Pittsburgh conference. We shared personal stories, swore a lot, and eventually
-figured out some interesting stuff about burnout.
+This started as an Open Space discussion at the 2014 DevOpsDays 
+Pittsburgh conference after hearing Jennifer Davis's talk ["From Hero to Zero"]
+(http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934). 
+We shared personal stories, swore a lot, and eventually figured out some interesting 
+stuff about burnout.
 
 ## What next?
 The following seems to be a reasonable approach to figuring out burnout:
