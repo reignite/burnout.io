@@ -26,13 +26,15 @@ consensus indicated the following to be a reasonable approach to burnout:
 can be changed.
 3. If the issue can't be fixed, it's time to find someplace new.
 
-# 1. Self-inflicted
+---
+
+## 1. Self-inflicted
 If you can take some time off, be removed from on-call for a bit, or allow that
 next task to wait until you become yourself again, *do it*. There is no benefit
 to being a "hero" if the toll is so great that your personal life and
 relationships suffer.
 
-# 2. External pressures
+## 2. External pressures
 * Management says they need that new feature *now*. 
 * You're not allowed to fix the technical debt and end up just applying 
 band-aids to everything.
@@ -57,7 +59,7 @@ new timeline we can put Features Y and Z on hold until the next release."
 take time tomorrow to plan the hiring we'll have to do in order to meet that
 goal."
 
-# 3. Move on
+## 3. Move on
 If the organization can't change enough to prevent burnout, leave. A recurring 
 point was "I'm so much more happy now that I work for a company that allows me
 to maintain a good work-life balance."
