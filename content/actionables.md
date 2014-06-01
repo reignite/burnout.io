@@ -12,9 +12,8 @@ If you can take some time off, be removed from on-call for a bit, or allow that
 next task to wait until you become yourself again, *do it*. Get some sleep and
 figure out what it will take to remove the strain.
 
-There is no benefit
-to being a "hero" if the toll is so great that your personal life and
-relationships suffer.
+**Stop being a hero.** There is no benefit if the toll is so great that your 
+personal life and relationships suffer.
 
 ## 2. Determine if it's an external pressure.
 * Management says they need that new feature *now*. 
