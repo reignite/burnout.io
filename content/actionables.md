@@ -3,7 +3,7 @@ Title: Actionables
 Description: What can you do to combat burnout?
 */
 
-# What can I do?.
+# What can I do?
 The general consensus seems to be that there are three steps in fighting
 against burnout:
 
