@@ -15,3 +15,6 @@ are going through and can help.
 
 ## Online Resources
 * [Information Technology Burnout Project](http://www.itburnout.org/)
+* [Burnout - DevOpsDays Ignite Talk](http://vimeo.com/79378532)
+* ["Post DevOpsDays ignite talk post-mortem"](http://www.mikepreston.org/2013/12/21/post-devopsdays-ignite-talk-post-mortem/)
+* ["Burnout, Recovery and Honesty"](http://www.threedrunkensysadsonthe.net/2013/11/burnout-recovery-and-honesty/)
