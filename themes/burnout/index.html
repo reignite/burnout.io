@@ -26,11 +26,8 @@
 		<div class="inner clearfix">
 			<h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
 			<ul class="nav">
-				{% for page in pages %}
-				  {% if page.title != 'Burnout.io' %}
-				    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-				  {% endif %}
-				{% endfor %}
+				<li><a href="/actionables">Actionables</a></li>
+				<li><a href="/resources">Resources</a></li>
 			</ul>
 		</div>
 	</header>
