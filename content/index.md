@@ -25,3 +25,5 @@ The following seems to be a reasonable approach to figuring out burnout:
 2. Determine if the cause is external (management, environment, etc.) and if it
 can be changed.
 3. If the issue can't be fixed, it's time to find someplace new.
+
+For more details, check out <a href="/actionables">the burnout actionables</a>.

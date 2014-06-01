@@ -60,7 +60,7 @@ considered with caution (don't be malicious or reckless to prove a point).
 ## 3. Move on.
 If the organization can't change enough to prevent burnout, leave. A recurring 
 point with people who have escaped burnout seems to be "I'm so much happier now
-that I ~~don't work for satan~~ work for a company that allows me to maintain a
+that I work for a company that allows me to maintain a
 good work-life balance."
 
 ### A note on preparation.
