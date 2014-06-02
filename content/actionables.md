@@ -12,8 +12,9 @@ If you can take some time off, be removed from on-call for a bit, or allow that
 next task to wait until you become yourself again, *do it*. Get some sleep and
 figure out what it will take to remove the strain.
 
-**Stop being a hero.** There is no benefit if the toll is so great that your 
-personal life and relationships suffer.
+The objective is to maintain a healthy work-life balance. **Stop being a hero.**
+There is no benefit if the toll is so great that your personal life and 
+relationships suffer.
 
 ## 2. Determine if it's an external pressure.
 * Management says they need that new feature *now*. 
@@ -25,9 +26,15 @@ personal life and relationships suffer.
 If these sorts of situations sound familiar and you're burning out, it's time 
 for the external factors to change.
 
+### Find out what is causing the problem.
+Burnout can be caused by mindless repetition and interruptions. Or it can be 
+middle-management setting unrealistic deadlines. Document the causes, then find 
+ways to alleviate them.
+
 ### Communicate the burnout to people who can help. 
 Yes, it's crazy, but sometimes all it takes is explaining the problem and 
-talking it out with management and coworkers.
+talking it out with management and coworkers. Middle-management should exist to 
+help specifically with these kinds of problems.
 
 ### Say "no" to unreasonable requests.
 Say "no" if a request is unreasonable, but try to provide feedback in order to
@@ -66,8 +73,9 @@ considered with caution (don't be malicious or reckless to prove a point).
 ## 3. Move on.
 If the organization can't change enough to prevent burnout, leave. A recurring 
 point with people who have escaped burnout seems to be "I'm so much happier now
-that I work for a company that allows me to maintain a
-good work-life balance."
+that I work for a company that allows me to maintain a good work-life balance."
+There's no guarantee, but at least you can take the opportunity to evaluate a
+potential employer based on your experiences during the interview process.
 
 ### A note on preparation.
 It's a really good idea to set aside emergency funds to use in case you have to
