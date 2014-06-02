@@ -239,6 +239,7 @@ blockquote {
 }
 #footer a { color: #ddd; }
 #footer a:hover { color: #fff; }
+#footer .inner { text-align:center; }
 
 /* Misc Styles
 /*---------------------------------------------*/
