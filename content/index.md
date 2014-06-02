@@ -23,7 +23,7 @@ and eventually figured out some interesting stuff about burnout.
 The following seems to be a reasonable approach to figuring out burnout:
 
 1. Determine if the cause is localized (self-inflicted).
-2. Determine if the cause is external (management, environment, etc.) and if it
+2. Determine if the cause is external (management, toxic work environment, etc.) and if it
 can be changed.
 3. If the issue can't be fixed, it's time to find someplace new.
 
