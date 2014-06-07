@@ -5,6 +5,7 @@
 $config['site_title'] = 'Burnout.io';
 $config['base_url'] = 'http://burnout.io';
 $config['theme'] = 'burnout';
+$config['pages_order_by'] = 'placing';
 
 /*
 $config['date_format'] = 'jS M Y';		// Set the PHP date format
