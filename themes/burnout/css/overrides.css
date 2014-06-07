@@ -1,7 +1,16 @@
-.footer { 
-	text-align: center; 
+#menu .pure-menu-selected, #menu .pure-menu-heading {
+	background-color: #2eae9b !important;
 }
+
 .social-menu { 
 	margin-top: 10px;
 	margin-left: 15px; 
+}
+
+a {
+	color: #2eae9b;
+}
+
+a:visited {
+	color: #777;
 }
