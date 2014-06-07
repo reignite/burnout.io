@@ -44,8 +44,11 @@
 	            <a class="pure-menu-heading" href="/">Burnout.io</a>
 
 	            <ul>
-					<li><a href="/actionables">Actionables</a></li>
-					<li><a href="/resources">Resources</a></li>
+	            	{% for page in pages %}
+	            		{% if page.title != site_title %}
+	            			<li><a href="{{ page.url }}">{{ page.title }}</a></li>
+	            		{% endif %}
+	            	{% endfor %}
 					<li><a href="https://github.com/bemosior/burnout.io" target="_blank">Contribute</a></li>
 					<li class="menu-item-divided"></li>
 
