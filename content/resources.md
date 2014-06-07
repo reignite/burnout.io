@@ -1,6 +1,6 @@
 /*
 Title: Resources
-Description: Find helpful resources to prevent or stop IT burnout.
+Description: Find helpful resources about burnout in IT.
 Placing: 1
 */
 

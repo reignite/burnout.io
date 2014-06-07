@@ -1,6 +1,6 @@
 /*
 Title: Burnout.io
-Description: IT burnout is extremely common. Put a stop to it by getting help early.
+Description: Burnout.io is an information resource for developers, sysadmins, and IT managers to aid in combating burnout and restoring a healthy work-life balance.
 */
 
 # Burnout

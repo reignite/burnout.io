@@ -1,6 +1,6 @@
 /*
 Title: Actionables
-Description: What can you do to combat burnout?
+Description: What can you do to combat burnout? Learn how to restore a healthy work-life balance.
 Placing: 0
 */
 
