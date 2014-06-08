@@ -20,3 +20,4 @@ are going through and can help.
 * [Post DevOpsDays Ignite Talk Post-Mortem](http://www.mikepreston.org/2013/12/21/post-devopsdays-ignite-talk-post-mortem/)
 * [Burnout, Recovery and Honesty](http://www.threedrunkensysadsonthe.net/2013/11/burnout-recovery-and-honesty/)
 * [Help Open-Source Maintainers Stay Sane](https://github.com/isaacs/github/issues/167)
+* [Working Late, Responsibly](http://dan.carley.co/blog/2014/05/21/working-late-responsibly/)
