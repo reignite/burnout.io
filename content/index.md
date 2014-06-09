@@ -28,3 +28,7 @@ can be changed.
 3. If the issue can't be fixed, it's time to find someplace new.
 
 For more details, check out <a href="/actionables">the burnout actionables</a>.
+
+<div id="action">
+	<a class="pure-button pure-button-primary button-action" href="/actionables">Read More</a>
+</div>

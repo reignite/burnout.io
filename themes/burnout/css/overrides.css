@@ -14,3 +14,18 @@ a {
 a:visited {
 	color: #777;
 }
+
+a:visited.pure-button {
+	color: #ffffff;
+}
+
+a.pure-button-primary {
+	background-color: #2eae9b;
+}
+
+#action {
+	text-align: center;
+	font-size: 150%;
+	margin-top: 25px;
+	margin-bottom: 30px;
+}
