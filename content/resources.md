@@ -21,3 +21,5 @@ are going through and can help.
 * [Burnout, Recovery and Honesty](http://www.threedrunkensysadsonthe.net/2013/11/burnout-recovery-and-honesty/)
 * [Help Open-Source Maintainers Stay Sane](https://github.com/isaacs/github/issues/167)
 * [Working Late, Responsibly](http://dan.carley.co/blog/2014/05/21/working-late-responsibly/)
+* [Fighting Burnout - Burlington Ruby Conf Talk](http://confreaks.com/videos/2621-btvruby2013-fighting-burnout-incorporating-rest-into-the-software-development-workflow)
+* [A Moment to Breathe](http://alistapart.com/article/a-moment-to-breathe)
