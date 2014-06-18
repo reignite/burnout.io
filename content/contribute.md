@@ -1,3 +1,9 @@
+/*
+Title: Contribute
+Description: Help us build Burnout.io!
+Placing: 2
+*/
+
 # We can't do this alone!
 
 Burnout.io is open-source and completely dependent on community help to create and revise content. 
