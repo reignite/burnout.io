@@ -11,5 +11,5 @@ Help us build this resource by opening an issue, suggesting ideas, or even submi
 
 
 <div id="action">
-	<a class="pure-button pure-button-primary button-action" target="_blank" href=https://github.com/reignite/burnout.io">Contribute!</a>
+	<a class="pure-button pure-button-primary button-action" target="_blank" href="https://github.com/reignite/burnout.io">Contribute!</a>
 </div>
