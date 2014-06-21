@@ -17,6 +17,12 @@ The objective is to maintain a healthy work-life balance. **Stop being a hero.**
 There is no benefit if the toll is so great that your personal life and 
 relationships suffer.
 
+Make sure when you aren't in the office, you spend some time doing something
+completely unrelated to IT. I get it, we're all passionate about what we
+do, but if your hobby happens to be the same as your job, you'll experience
+burnout much faster. If you are finding this hard to do, schedule in one or
+two nights a week and communicate that you won't be available that night.
+
 ## 2. Determine if it's an external pressure.
 * Management says they need that new feature *now*. 
 * You're not allowed to fix the technical debt and end up just applying 
