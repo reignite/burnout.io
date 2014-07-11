@@ -61,7 +61,7 @@ For example:
   the new timeline we can put Features Y and Z on hold until the next 
   release."
 * "Yes, we can plan on adding Project X to our responsibilities, and we can
-  take time tomorrow to plan the hiring we'll have to do in order to meet 
+  take some time to plan the hiring we'll have to do in order to meet 
   that goal."
 
 An alternative way of phrasing "Yes, and..." is to say, "You can have everything
