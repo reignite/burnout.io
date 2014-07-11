@@ -4,20 +4,16 @@ Description: Burnout.io is an information resource for developers, sysadmins, an
 */
 
 # Burnout
-Burnout is basically "the emotions a person or organization experiences that 
-are associated with mental or psychological exhaustion and/or cynicism over an
-extended period of time"<a href="http://www.itburnout.org/what-is-burnout/"
-target="_blank">[1]</a>. 
+"Burnout is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress" - <a href="http://www.helpguide.org/mental/burnout_signs_symptoms.htm">Preventing Burnout:
+Signs, Symptoms, Causes, and Coping Strategies</a>. 
 
 In IT, this can manifest itself in all sorts of ways,
-including stress and anxiety, loss of motivation and confidence, or even
+including anxiety, loss of motivation and confidence, or even
 degradation of physical health.
 
 ## Why?
-This started as an Open Space discussion at the 2014 DevOpsDays 
-Pittsburgh conference after hearing Jennifer Davis's talk <a href="http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934"
-target="_blank">"From Hero to Zero"</a>. We shared personal stories, swore a lot, 
-and eventually figured out some interesting stuff about burnout.
+At the 2014 DevOpsDays Pittsburgh conference, Jennifer Davis gave a talk titled, <a href="http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934?time=260"
+target="_blank">"From Hero to Zero,"</a> which sparked a additional exploration of burnout during an Open Space discussion.
 
 ## What next?
 The following seems to be a reasonable approach to figuring out burnout:
