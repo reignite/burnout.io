@@ -24,5 +24,5 @@ can be changed.
 
 ## Why?
 At the 2014 DevOpsDays Pittsburgh conference, Jennifer Davis gave a talk titled, <a target="_blank" href="http://new.livestream.com/devopsdaysorg/events/3044568/videos/52394934?time=260"
-target="_blank">"From Hero to Zero,"</a> which sparked a additional exploration of burnout during an Open Space discussion.
+target="_blank">"From Hero to Zero,"</a> which sparked additional exploration of burnout during an Open Space discussion.
 
