@@ -4,8 +4,7 @@ Description: Burnout.io is an information resource for developers, sysadmins, an
 */
 
 # Burnout
-"Burnout is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress" - <a target="_blank" href="http://www.helpguide.org/mental/burnout_signs_symptoms.htm">Preventing Burnout:
-Signs, Symptoms, Causes, and Coping Strategies</a>. 
+"Burnout is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress."<sup><a target="_blank" href="http://www.helpguide.org/mental/burnout_signs_symptoms.htm">[0]</a></sup> 
 
 In IT, this can manifest itself in all sorts of ways,
 including anxiety, loss of motivation and confidence, or even
