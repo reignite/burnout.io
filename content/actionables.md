@@ -17,18 +17,16 @@ The objective is to maintain a healthy work-life balance. **Stop being a hero.**
 There is no benefit if the toll is so great that your personal life and 
 relationships suffer.
 
-Make sure when you aren't in the office, you spend some time doing something
-completely unrelated to IT. I get it, we're all passionate about what we
-do, but if your hobby happens to be the same as your job, you'll experience
-burnout much faster. If you are finding this hard to do, schedule in one or
-two nights a week and communicate that you won't be available that night.
+Make sure when you aren't in the office you spend some time doing something
+completely unrelated to IT. We are all passionate about what we
+do, but if your hobby happens to be the same as your job, you may experience
+burnout much faster.
 
 ## 2. Determine if it's an external pressure.
 * Management says they need that new feature *now*. 
-* You're not allowed to fix the technical debt and end up just applying 
-  band-aids to everything, which means you're constantly fighting fires.
-* You're the only reason the systems stay running, but you have to work 60 
-  hours a week to make it happen.
+* You're not allowed to fix the technical debt and apply band-aids instead.
+* You're constantly fighting fires.
+* The only reason everything is working is because you put in too many hours a week.
 
 If these sorts of situations sound familiar and you're burning out, it's time 
 for the external factors to change.
@@ -45,11 +43,10 @@ help specifically with these kinds of problems.
 
 ### Say "no" to unreasonable requests.
 Say "no" if a request is unreasonable, but try to provide feedback in order to
-prevent the pattern from continuing. 
+prevent the pattern from continuing.
 
-One sneaky way that managers turn the reasonable into the impossible is
-to talk you down on your estimates, e.g., "Will it really take that long?". 
-Stick by your estimates.
+Don't allow yourself to be talked down when it comes to time estimates. Instead, learn <a target="_blank" href="http://monkeyandcrow.com/blog/estimation_bargaining/">
+"Defense Against the Dark Art of Estimation Bargaining"</a>
 
 ### "Yes, and..."
 If "no" doesn't work, try using the <a href="http://www.huffingtonpost.com/
@@ -73,19 +70,20 @@ you want, just not all at once."
 ### Let it fail.
 If your cries for change aren't working, allow the consequences (downtime, no
 new features, etc.) to speak for themselves. If the choice is between your 
-sanity and the systems you're building and maintaining, one of those needs 
-to take precedence. Hint: it's your sanity! Of course, this point should be 
-considered with caution (don't be malicious or reckless to prove a point).
+sanity and the systems you're building and maintaining, one of those is going to win
+(and it needs to be your sanity)! Of course, this point should be 
+considered with caution (don't be malicious or reckless just to prove a point).
 
-## 3. Move on.
-If the organization can't change enough to prevent burnout, leave. A recurring 
-point with people who have escaped burnout seems to be "I'm so much happier now
+## 3. Move on (or take a break).
+If your organization can't change enough to help you prevent burnout, it may be time to leave.
+A recurring point with people who have escaped burnout seems to be "I'm so much happier now
 that I work for a company that allows me to maintain a good work-life balance."
-There's no guarantee, but at least you can take the opportunity to evaluate a
-potential employer based on your experiences during the interview process.
+There's no guarantee, but at least you can take the opportunity to fairly evaluate 
+a potential job during the interview process.
+
+It may also be better to take a long vacation, far away from emails and business-speak.
 
 ### A note on preparation.
 It's a really good idea to set aside emergency funds to use in case you have to
-exercise option 3. Experiencing burnout sometimes means you need to take a 
-month off before interviewing for other positions, so you need to have the
-means to be able to do so.
+exercise option 3. Open up a savings account and allocate a percentage of 
+your income towards your potential burnout escape.
