@@ -45,7 +45,7 @@ help specifically with these kinds of problems.
 Say "no" if a request is unreasonable, but try to provide feedback in order to
 prevent the pattern from continuing.
 
-Don't allow yourself to be talked down when it comes to time estimates. Instead, learn <a target="_blank" href="http://monkeyandcrow.com/blog/estimation_bargaining/">
+Don't allow yourself to be talked down when it comes to time estimates. Instead, learn <a target="_blank" href="http://www.liquidplanner.com/blog/defense-dark-art-estimation-bargaining/">
 "Defense Against the Dark Art of Estimation Bargaining"</a>
 
 ### "Yes, and..."
