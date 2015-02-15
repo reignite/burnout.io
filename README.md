@@ -19,8 +19,3 @@ Burnout.io will likely be moving to GitHub pages in the near future, per [#6](ht
 
 ### Model
 Static content can only so helpful. We'd like to begin featuring articles on burnout and IT health so burnout.io can be a helpful resource for information in the long-term.
-
-### reignite.io
-[burnout.io](http://burnout.io) will be integrating with and featuring content from [reignite.io](http://reignite.io), "a place where we as technologists can share our stories, frustrations, successes, etc in regards to burnout."<sup>[[1]](http://reignite.nodebb.com/topic/1/welcome-friends#1)</sup>
-
-More to come.
