@@ -15,6 +15,8 @@ target="_blank">Reddit</a>, and maybe even at your workplace who know what you
 are going through and can help.
 
 ## Online Resources
+> "Health is more important than anything else. If your job is driving you crazy and giving you high BP, my prescription is, 'Try, try, then quit'."
+- <small>[So your management fails at IT, huh?](http://everythingsysadmin.com/2013/08/let-failures-fail.html)</small>
 
 > "Burnout, in the broadest sense of the definition, refers to the emotions a person or organization experiences that are associated with mental or psychological exhaustion and/or cynicism over an extended period of time."
 - <small>[Information Technology Burnout Project - What Is Burnout?](http://www.itburnout.org/what-is-burnout/)</small>
