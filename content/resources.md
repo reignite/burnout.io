@@ -15,6 +15,10 @@ target="_blank">Reddit</a>, and maybe even at your workplace who know what you
 are going through and can help.
 
 ## Online Resources
+
+> "This time, about 8 minutes into his presentation, Stephen admitted that his previous year had been so stressful from industry burnout, that he seriously contemplated suicide.  Everyone in the room was shocked."
+- <small>[Karōjisatsu](http://itrevolution.com/karojisatsu/) - John Willis
+
 > "Health is more important than anything else. If your job is driving you crazy and giving you high BP, my prescription is, 'Try, try, then quit'."
 - <small>[So your management fails at IT, huh?](http://everythingsysadmin.com/2013/08/let-failures-fail.html)</small>
 
