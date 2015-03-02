@@ -4,7 +4,7 @@ Description: Burnout.io is an information resource for combating occupational bu
 */
 
 # Burnout
-"<a target="_blank" href="http://www.helpguide.org/mental/burnout_signs_symptoms.htm">Burnout</a> is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress." It manifests itself in ways including anxiety, loss of motivation and confidence, and even degradation of physical health. Burnout can be prevalent in organizations that promote [hero culture](http://www.activestate.com/blog/2014/01/devops-hero-culture) or [a sense of duty](http://www.thestar.com/business/2012/04/06/employees_who_feel_trapped_in_jobs_more_likely_to_suffer_burnout.html).
+"<a target="_blank" href="http://www.helpguide.org/mental/burnout_signs_symptoms.htm">Burnout</a> is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress." It manifests itself in ways including anxiety, loss of motivation and confidence, and even degradation of physical health. Burnout can be prevalent in organizations that promote <a target="_blank" href="http://www.activestate.com/blog/2014/01/devops-hero-culture">hero culture</a> and where employees maintain a strong <a target="_blank" href="http://www.thestar.com/business/2012/04/06/employees_who_feel_trapped_in_jobs_more_likely_to_suffer_burnout.html">a sense of duty</a> or feel they have no alternatives in the employment market.
 
 ## Summary
 The following seems to be a reasonable approach to figuring out work-related burnout:
