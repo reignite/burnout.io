@@ -4,18 +4,15 @@ Description: Burnout.io is an information resource for combating occupational bu
 */
 
 # Burnout
-"<a target="_blank" href="http://www.helpguide.org/mental/burnout_signs_symptoms.htm">Burnout</a> is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress."
-
-It manifests in all sorts of ways, including anxiety, loss of motivation and confidence, or even
-degradation of physical health.
+"<a target="_blank" href="http://www.helpguide.org/mental/burnout_signs_symptoms.htm">Burnout</a> is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress." It manifests itself in ways including anxiety, loss of motivation and confidence, and even degradation of physical health. Burnout can be prevalent in organizations that promote [hero culture](http://www.activestate.com/blog/2014/01/devops-hero-culture) or [a sense of duty](http://www.thestar.com/business/2012/04/06/employees_who_feel_trapped_in_jobs_more_likely_to_suffer_burnout.html).
 
 ## Summary
 The following seems to be a reasonable approach to figuring out work-related burnout:
 
-1. Determine if the cause is localized (self-inflicted).
-2. Determine if the cause is external (management, work environment issues, etc.) and if it
+1. Determine if the causes are localized (self-inflicted).
+2. Determine if the causes are external (management, work environment issues, etc.) and if it
 can be changed.
-3. If the issues can't be fixed, find someplace new.
+3. Find someplace new if the issues can't be fixed.
 
 <div id="action">
 	<a class="pure-button pure-button-primary button-action" href="/actionables">What Can I Do?</a>
