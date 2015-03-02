@@ -4,7 +4,7 @@ Description: Burnout.io is an information resource for combating occupational bu
 */
 
 # Burnout
-"Burnout is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress."<sup><a target="_blank" href="http://www.helpguide.org/mental/burnout_signs_symptoms.htm">[0]</a></sup> 
+"<a target="_blank" href="http://www.helpguide.org/mental/burnout_signs_symptoms.htm">Burnout</a> is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress."
 
 It manifests in all sorts of ways, including anxiety, loss of motivation and confidence, or even
 degradation of physical health.
