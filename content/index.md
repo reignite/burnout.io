@@ -10,7 +10,7 @@ Description: Burnout.io is an information resource for combating occupational bu
 The following seems to be a reasonable approach to figuring out work-related burnout:
 
 1. Determine if the causes are localized (self-inflicted).
-2. Determine if the causes are external (management, work environment issues, etc.) and if it
+2. Determine if the causes are external (management, work environment, etc.) and if it
 can be changed.
 3. Find someplace new if the issues can't be fixed.
 
