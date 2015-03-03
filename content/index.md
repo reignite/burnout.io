@@ -21,3 +21,4 @@ can be changed.
 ## Why?
 At the 2014 DevOpsDays Pittsburgh conference, Jennifer Davis gave a talk titled, "From Hero to Zero" (<a target="_blank" href="https://vimeo.com/104252736#t=1m4s">updated at DevOpsDays Boston 2014</a>) which sparked additional exploration of burnout during an Open Space discussion.
 
+The site was originally built with IT professionals in mind, but the concepts here can apply to many other fields as well.
