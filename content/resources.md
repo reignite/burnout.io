@@ -8,7 +8,7 @@ Placing: 1
 Make use of the available resources to stop and prevent burnout.
 
 ## Others feel your pain.
-Find others you can talk to who have gone through similar experiences. There are people at conferences, on <a href="http://www.reddit.com/r/sysadmin/search?q=burnout&sort=top&restrict_sr=on" target="_blank">Reddit</a>, and maybe even at your workplace who know what you are going through and can help.
+Find others you can talk to who have gone through similar experiences. There are people at conferences, on <a href="http://www.reddit.com/r/sysadmin/search?q=burnout&sort=top&restrict_sr=on" target="_blank">Reddit</a>, on <a href="https://twitter.com/search?q=burnout&src=typd" target="_blank">Twitter</a>, and maybe even at your workplace who know what you are going through and can help.
 
 ## Online Resources
 
