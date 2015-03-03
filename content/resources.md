@@ -1,18 +1,14 @@
 /*
 Title: Resources
-Description: Find helpful resources about burnout in IT.
+Description: Find helpful resources about burnout in the workplace.
 Placing: 1
 */
 
 # Get help!
-Make use of the available resources to stop and prevent IT burnout.
+Make use of the available resources to stop and prevent burnout.
 
-## Other IT people feel your pain.
-Find others you can talk to who have gone through similar problems. There are
-people at conferences, on <a href=
-"http://www.reddit.com/r/sysadmin/search?q=burnout&sort=top&restrict_sr=on"
-target="_blank">Reddit</a>, and maybe even at your workplace who know what you
-are going through and can help.
+## Others feel your pain.
+Find others you can talk to who have gone through similar experiences. There are people at conferences, on <a href="http://www.reddit.com/r/sysadmin/search?q=burnout&sort=top&restrict_sr=on" target="_blank">Reddit</a>, and maybe even at your workplace who know what you are going through and can help.
 
 ## Online Resources
 
