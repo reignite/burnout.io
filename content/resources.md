@@ -41,3 +41,5 @@ Find others you can talk to who have gone through similar experiences. There are
 
 > "Like everyone else, I thought that the common solution is to take a break and go on a holiday trip with loved ones or simply take a few days away from work once in a while. Holiday trips are always nice, but it didn’t exactly help me much, the effect didn’t last. Occasionally, I found myself to be extremely stressed just 2 days after I came back to work. It’s not because there were tons of work waiting, it’s not because the holidays were too short."
 - <small>[My secret to getting rid of burnout permanently](http://kentnguyen.com/personal/getting-rid-burnouts/) - Kent Nguyen</small>
+
+- [Node Up: Episode #80: A developer mental health show.](http://alistapart.com/article/a-moment-to-breathe) - Rod Vagg, Aria Stewart, Ed Finkler, Greg Baugues
