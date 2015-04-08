@@ -41,3 +41,8 @@ Find others you can talk to who have gone through similar experiences. There are
 
 > "Like everyone else, I thought that the common solution is to take a break and go on a holiday trip with loved ones or simply take a few days away from work once in a while. Holiday trips are always nice, but it didn’t exactly help me much, the effect didn’t last. Occasionally, I found myself to be extremely stressed just 2 days after I came back to work. It’s not because there were tons of work waiting, it’s not because the holidays were too short."
 - <small>[My secret to getting rid of burnout permanently](http://kentnguyen.com/personal/getting-rid-burnouts/) - Kent Nguyen</small>
+
+> "I have bipolar and ADHD and speak a lot about mental health in the tech community. I’m writing a book called Developers and Depression, and in 2013 I had the honor of speaking on the topic at the Business of Software conference. That 30 minutes on stage was one of the best things I’ve done with my life."
+- <small>[Developers and Depression](http://baugues.com/depression) - Greg Baugues</small>
+
+
