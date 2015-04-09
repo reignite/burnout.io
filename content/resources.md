@@ -11,6 +11,8 @@ Make use of the available resources to stop and prevent burnout.
 Find others you can talk to who have gone through similar experiences. There are people at conferences, on <a href="http://www.reddit.com/r/sysadmin/search?q=burnout&sort=top&restrict_sr=on" target="_blank">Reddit</a>, on <a href="https://twitter.com/search?q=burnout&src=typd" target="_blank">Twitter</a>, and maybe even at your workplace who know what you are going through and can help.
 
 ## Online Resources
+> ""
+- [Node Up: Episode #80: A developer mental health show.](http://nodeup.com/eighty) - Rod Vagg, Aria Stewart, Ed Finkler, Greg Baugues
 
 > "I am aware of how programming is often coupled with depression and how entrepreneurship is often coupled with anxiety. I am aware of articles that imply these mood disorders are necessary in order to be good at these professions."
 - <small>[Surviving Free Culture](https://medium.com/@balupton/surviving-free-culture-f99b39ceb059) - Benjamin Lupton</small>
@@ -48,4 +50,3 @@ Find others you can talk to who have gone through similar experiences. There are
 > "Like everyone else, I thought that the common solution is to take a break and go on a holiday trip with loved ones or simply take a few days away from work once in a while. Holiday trips are always nice, but it didn’t exactly help me much, the effect didn’t last. Occasionally, I found myself to be extremely stressed just 2 days after I came back to work. It’s not because there were tons of work waiting, it’s not because the holidays were too short."
 
 - <small>[My secret to getting rid of burnout permanently](http://kentnguyen.com/personal/getting-rid-burnouts/) - Kent Nguyen</small>
-
