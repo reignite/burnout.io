@@ -12,6 +12,9 @@ Find others you can talk to who have gone through similar experiences. There are
 
 ## Online Resources
 
+> "Sometimes it's the feelings of burnout... things we struggle with in our jobs, particularly with some of the ill-defined tasks that we get as software developers, and some of the high-stress workplaces that we put ourselves in that demand constant contact and constant availability."
+- [Node Up: Episode #80: A developer mental health show.](http://nodeup.com/eighty) - Rod Vagg, Aria Stewart, Ed Finkler, Greg Baugues
+
 > "I am aware of how programming is often coupled with depression and how entrepreneurship is often coupled with anxiety. I am aware of articles that imply these mood disorders are necessary in order to be good at these professions."
 - <small>[Surviving Free Culture](https://medium.com/@balupton/surviving-free-culture-f99b39ceb059) - Benjamin Lupton</small>
 
@@ -48,4 +51,3 @@ Find others you can talk to who have gone through similar experiences. There are
 > "Like everyone else, I thought that the common solution is to take a break and go on a holiday trip with loved ones or simply take a few days away from work once in a while. Holiday trips are always nice, but it didn’t exactly help me much, the effect didn’t last. Occasionally, I found myself to be extremely stressed just 2 days after I came back to work. It’s not because there were tons of work waiting, it’s not because the holidays were too short."
 
 - <small>[My secret to getting rid of burnout permanently](http://kentnguyen.com/personal/getting-rid-burnouts/) - Kent Nguyen</small>
-
