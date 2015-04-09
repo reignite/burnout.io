@@ -11,7 +11,8 @@ Make use of the available resources to stop and prevent burnout.
 Find others you can talk to who have gone through similar experiences. There are people at conferences, on <a href="http://www.reddit.com/r/sysadmin/search?q=burnout&sort=top&restrict_sr=on" target="_blank">Reddit</a>, on <a href="https://twitter.com/search?q=burnout&src=typd" target="_blank">Twitter</a>, and maybe even at your workplace who know what you are going through and can help.
 
 ## Online Resources
-> ""
+
+> "Sometimes it's the feelings of burnout... things we struggle with in our jobs, particularly with some of the ill-defined tasks that we get as software developers, and some of the high-stress workplaces that we put ourselves in that demand constant contact and constant availability."
 - [Node Up: Episode #80: A developer mental health show.](http://nodeup.com/eighty) - Rod Vagg, Aria Stewart, Ed Finkler, Greg Baugues
 
 > "I am aware of how programming is often coupled with depression and how entrepreneurship is often coupled with anxiety. I am aware of articles that imply these mood disorders are necessary in order to be good at these professions."
