@@ -13,7 +13,7 @@ Find others you can talk to who have gone through similar experiences. There are
 ## Online Resources
 
 > "Sometimes it's the feelings of burnout... things we struggle with in our jobs, particularly with some of the ill-defined tasks that we get as software developers, and some of the high-stress workplaces that we put ourselves in that demand constant contact and constant availability."
-- [Node Up: Episode #80: A developer mental health show.](http://nodeup.com/eighty) - Rod Vagg, Aria Stewart, Ed Finkler, Greg Baugues
+- <small>[Node Up: Episode #80: A developer mental health show.](http://nodeup.com/eighty) - Rod Vagg, Aria Stewart, Ed Finkler, Greg Baugues</small>
 
 > "I am aware of how programming is often coupled with depression and how entrepreneurship is often coupled with anxiety. I am aware of articles that imply these mood disorders are necessary in order to be good at these professions."
 - <small>[Surviving Free Culture](https://medium.com/@balupton/surviving-free-culture-f99b39ceb059) - Benjamin Lupton</small>
