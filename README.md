@@ -1,7 +1,8 @@
 # Burnout.io
 
-[![Join the chat at https://gitter.im/reignite/burnout.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reignite/burnout.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [Burnout.io](http://burnout.io) provides resources to prevent IT burnout.
+
+[![Join the chat at https://gitter.im/reignite/burnout.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reignite/burnout.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Contributing
 We value your ideas! If you'd like to help improve Burnout.io, do whatever works best for you:
