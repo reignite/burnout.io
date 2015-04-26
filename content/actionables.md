@@ -26,7 +26,7 @@ If these sorts of situations sound familiar and you're burning out, it's time fo
 Burnout can be caused by mindless repetition and interruptions. Or it can be middle-management setting unrealistic deadlines. Document the causes, then find ways to alleviate them.
 
 ### Communicate the burnout to people who can help. 
-Yes, it's crazy, but sometimes all it takes is explaining the problem and talking it out with management and coworkers. Middle-management should exist to help specifically with these kinds of problems.
+Sometimes all it takes is explaining the problem and talking it out with management and coworkers. Middle-management should exist to help specifically with these kinds of problems.
 
 ### Say "no" to unreasonable requests.
 Say "no" if a request is unreasonable, but try to provide feedback in order to prevent the pattern from continuing.
