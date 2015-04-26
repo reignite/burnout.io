@@ -44,7 +44,7 @@ For example:
 An alternative way of phrasing "Yes, and..." is to say, "You can have everything you want, just not all at once."
 
 ### Let it fail.
-If your cries for change aren't working, allow the consequences (downtime, no new features, missed deadlines, etc.) to speak for themselves. If the choice is between your sanity and your work, one of those is going to win (and it needs to be your sanity)! Of course, this point should be considered with caution (don't be malicious or reckless just to prove a point).
+If your cries for change aren't working, allow the consequences (downtime, no new features, missed deadlines, etc.) to speak for themselves. If the choice is between your mental health and your work, one of those is going to win (and it needs to be your mental health)! Of course, this point should be considered with caution (don't be malicious or reckless just to prove a point).
 
 ## 3. Move on (or take a break).
 If your organization can't change enough to help you prevent burnout, it may be time to leave. A recurring point with people who have escaped burnout seems to be "I'm so much happier now that I work for a company that allows me to maintain a good work-life balance." There's no guarantee, but at least you can take the opportunity to fairly evaluate a potential job during the interview process.
