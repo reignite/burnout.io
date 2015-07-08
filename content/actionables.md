@@ -89,6 +89,7 @@ Work can often take so much precedence that it can become your identity. Remembe
 * Making personal fitness a priority
 
 Above all else, remember:
+
 *Be kind to yourself first.*
 
 ## Build a Support Network
