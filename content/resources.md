@@ -1,7 +1,7 @@
 /*
 Title: Resources
 Description: Find helpful resources about burnout in the workplace.
-Placing: 1
+Placing: 2
 */
 
 # Get help!
