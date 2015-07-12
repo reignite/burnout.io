@@ -53,29 +53,3 @@ It may also be better to take a long vacation, far away from emails and business
 
 ### A note on preparation.
 It's a really good idea to set aside emergency funds to use in case you have to exercise option 3. Open up a savings account and allocate a percentage of your income towards your potential burnout escape.
-
-# More Action items
-
-## Acknowledge your feelings.
-
-How are you feeling? It is valid. Share your feelings with your support network. This helps build *resilience*. Recognize your state in the *exhaustion funnel* and how that will impact your decisions.
-
-## Build your identity.
-
-You are more than your job. You are more than the contributions that you make to open source projects. Who are you?
-
-Understanding who you are, what you value can help keep you afloat when traumatic events like a company layoff occur. If your identity is tightly woven to your job, losing your job can feel like you have no meaning. Companies fail all the time. More startups close than make it to a finish line. Avoid tying your mental health to the success of something outside of your control.
-
-## Fuel up
-
-Know yourself. Know what energizes or calms you. Whether it's reading, non-technical activity time, off in a forest with the greenery, or something else. Monitor your "fuel" levels and recognize when you need to take a break. Talk to your Support network and ask them to give you external signals.
-
-*Be kind to yourself first.*
-
-## Build a Support Network
-
-Identify people that you can talk to safely. Meet with your support group regularly whether it's on the phone, web, or in person. Your Support Network should be more than just your significant other. Even if they are in the industry, the cost to your personal relationships in times when you need it most can be devastating.
-
-## Connect with Community
-
-Whether you are a developer, operations, qe, product management, or in the CXO level you need to have peers to be able to recognize the common problems. We are humans and identify patterns. These patterns can help you discern between "you" issues and "everyone" issues. Talking about burnout as a community for example has helped many recognize that they are not alone! Community time can also help with feelings of loneliness. It is critical that you recognize the cost in interactions as well that may feel like internal stressors.
