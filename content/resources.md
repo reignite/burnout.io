@@ -12,6 +12,9 @@ Find others you can talk to who have gone through similar experiences. There are
 
 ## Online Resources
 
+> "Horde statistics: 1 in 3 thought about quitting because of stress, 75% are not engaged with their work, over 1 million absent per day..."
+- <small>[Avoiding Burnout: The Zombie Survival Guide](https://github.com/dmanners/avoiding-burnout/blob/master/Avoiding%20Burnout.pdf) - David Manners</small>
+
 > "EDD [Experience Driven Development] - some basic information around the topic mental health/illness in IT"
 - <small>[EDD [Experience Driven Development]](https://speakerdeck.com/mischosch/developers-mental-health) - Michael Scholl</small>
 
