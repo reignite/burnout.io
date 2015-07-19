@@ -12,6 +12,9 @@ Find others you can talk to who have gone through similar experiences. There are
 
 ## Online Resources
 
+> "EDD [Experience Driven Development] - some basic information around the topic mental health/illness in IT"
+- <small>[EDD [Experience Driven Development]](https://speakerdeck.com/mischosch/developers-mental-health) - Michael Scholl</small>
+
 > "Mental disorders are the largest contributor to disease burden in North America, but the developer community and those who employ us are afraid to face the problem head-on. In this talk, we'll examine the state of mental health awareness in the developer workplace, why most developers feel it isn't safe to talk about mental health, and what we can do to change the culture and save lives."
 - <small>[Stronger Than Fear: Mental Health in the Developer Community](https://github.com/cascadiajs/2015.cascadiajs.com/issues/228) - Ed Finkler</small>
 
