@@ -12,6 +12,9 @@ Find others you can talk to who have gone through similar experiences. There are
 
 ## Online Resources
 
+> "While critically important as a tool to help, these solutions also don’t directly address the path to burnout. They don’t tackle the systemic problems within both startups and larger organizations that lead to burnout. They gloss over the patterned behaviors of sociopathic (or even merely incompetent) managers."
+- <small>[Dodging Burnout, 4 Hours at a Time](https://medium.com/@jpaulreed/dodging-burnout-4-hours-at-a-time-965f1921e6a2) - J. Paul Reed</small>
+
 > "You didn’t mean to end up here. You didn’t even see it coming... It all started with a chance to earn a living doing something you loved. Your dream job. Creating things instead of rotting in a cubicle. You weren’t just going to make a living — you were going to leave your mark on the world."
 - <small>[The Cult of Work You Never Meant to Join](http://lengstorf.com/overkill-cult/?utm_source=burnout-io) - Jason Lengstorf</small>
 
