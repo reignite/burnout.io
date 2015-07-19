@@ -12,8 +12,11 @@ Find others you can talk to who have gone through similar experiences. There are
 
 ## Online Resources
 
+> "You didn’t mean to end up here. You didn’t even see it coming... It all started with a chance to earn a living doing something you loved. Your dream job. Creating things instead of rotting in a cubicle. You weren’t just going to make a living — you were going to leave your mark on the world."
+- <small>[The Cult of Work You Never Meant to Join](http://lengstorf.com/overkill-cult/?utm_source=burnout-io) - Jason Lengstorf</small>
+
 > "If... you work for someone for money, you're just a factor of production... You're trading your time, your skills, your talent for that money... Every time you stay after work late, you're giving away that time away for free."
-- <small>[Go the F*** Home](https://www.youtube.com/watch?v=YBoS-svKdgs) - Pam Selle
+- <small>[Go the F*** Home](https://www.youtube.com/watch?v=YBoS-svKdgs) - Pam Selle</small>
 
 > "It is true that I would insist that I could handle it, and I guess I did, but don’t organizations have a responsibility to their employees to stop them from harming themselves in the name of the job?"
 - <small>[A Year of Fire and Fog](https://medium.com/@nobert/a-year-of-fire-and-fog-2c68f90c74e4) - Alex Nobert</small>
