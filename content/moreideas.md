@@ -1,3 +1,9 @@
+/*
+Title: More Ideas
+Description: More ideas to help recover from burnout
+Placing: 1
+*/
+
 # More ideas to help recover from burnout
 
 ## Acknowledge your feelings.

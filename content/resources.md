@@ -1,7 +1,7 @@
 /*
 Title: Resources
 Description: Find helpful resources about burnout in the workplace.
-Placing: 1
+Placing: 2
 */
 
 # Get help!
@@ -12,6 +12,24 @@ Find others you can talk to who have gone through similar experiences. There are
 
 ## Online Resources
 
+> "Horde statistics: 1 in 3 thought about quitting because of stress, 75% are not engaged with their work, over 1 million absent per day..."
+- <small>[Avoiding Burnout: The Zombie Survival Guide](https://github.com/dmanners/avoiding-burnout/blob/master/Avoiding%20Burnout.pdf) - David Manners</small>
+
+> "EDD [Experience Driven Development] - some basic information around the topic mental health/illness in IT"
+- <small>[EDD [Experience Driven Development]](https://speakerdeck.com/mischosch/developers-mental-health) - Michael Scholl</small>
+
+> "Mental disorders are the largest contributor to disease burden in North America, but the developer community and those who employ us are afraid to face the problem head-on. In this talk, we'll examine the state of mental health awareness in the developer workplace, why most developers feel it isn't safe to talk about mental health, and what we can do to change the culture and save lives."
+- <small>[Stronger Than Fear: Mental Health in the Developer Community](https://github.com/cascadiajs/2015.cascadiajs.com/issues/228) - Ed Finkler</small>
+
+> "While critically important as a tool to help, these solutions also don’t directly address the path to burnout. They don’t tackle the systemic problems within both startups and larger organizations that lead to burnout. They gloss over the patterned behaviors of sociopathic (or even merely incompetent) managers."
+- <small>[Dodging Burnout, 4 Hours at a Time](https://medium.com/@jpaulreed/dodging-burnout-4-hours-at-a-time-965f1921e6a2) - J. Paul Reed</small>
+
+> "You didn’t mean to end up here. You didn’t even see it coming... It all started with a chance to earn a living doing something you loved. Your dream job. Creating things instead of rotting in a cubicle. You weren’t just going to make a living — you were going to leave your mark on the world."
+- <small>[The Cult of Work You Never Meant to Join](http://lengstorf.com/overkill-cult/?utm_source=burnout-io) - Jason Lengstorf</small>
+
+> "If... you work for someone for money, you're just a factor of production... You're trading your time, your skills, your talent for that money... Every time you stay after work late, you're giving away that time away for free."
+- <small>[Go the F*** Home](https://www.youtube.com/watch?v=YBoS-svKdgs) - Pam Selle</small>
+
 > "It is true that I would insist that I could handle it, and I guess I did, but don’t organizations have a responsibility to their employees to stop them from harming themselves in the name of the job?"
 - <small>[A Year of Fire and Fog](https://medium.com/@nobert/a-year-of-fire-and-fog-2c68f90c74e4) - Alex Nobert</small>
 
@@ -19,7 +37,7 @@ Find others you can talk to who have gone through similar experiences. There are
 - <small>[Node Up: Episode #80: A developer mental health show.](http://nodeup.com/eighty) - Rod Vagg, Aria Stewart, Ed Finkler, Greg Baugues</small>
 
 > "I am aware of how programming is often coupled with depression and how entrepreneurship is often coupled with anxiety. I am aware of articles that imply these mood disorders are necessary in order to be good at these professions."
-- <small>[Surviving Free Culture](https://medium.com/@balupton/surviving-free-culture-f99b39ceb059) - Benjamin Lupton</small>
+- <small>Surviving Free Culture [Article](https://medium.com/@balupton/surviving-free-culture-f99b39ceb059) & [Talk](https://www.youtube.com/watch?v=Lt_oKuaFgrg) - Benjamin Lupton</small>
 
 > "I have bipolar and ADHD and speak a lot about mental health in the tech community. I’m writing a book called Developers and Depression, and in 2013 I had the honor of speaking on the topic at the Business of Software conference. That 30 minutes on stage was one of the best things I’ve done with my life."
 - <small>[Developers and Depression](http://baugues.com/depression) - Greg Baugues</small>
