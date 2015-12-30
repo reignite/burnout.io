@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/burnoutio-test/badge/?version=latest)](http://burnoutio-test.readthedocs.org/en/latest/?badge=latest)  [![Build Status](https://travis-ci.org/AaronSachs/burnout.io-test.svg?branch=master)](https://travis-ci.org/AaronSachs/burnout.io-test)  [![Join the chat at https://gitter.im/reignite/burnout.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reignite/burnout.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Documentation Status](https://readthedocs.org/projects/burnoutio/badge/?version=latest)](http://burnoutio.readthedocs.org/en/latest/?badge=latest)  [![Build Status](https://travis-ci.org/reignite/burnout.io.svg?branch=master)](https://travis-ci.org/reignite/burnout.io)  [![Join the chat at https://gitter.im/reignite/burnout.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reignite/burnout.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [Burnout.io](http://burnout.io) provides resources to prevent IT burnout.
 
