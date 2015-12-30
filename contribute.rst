@@ -58,12 +58,12 @@ Which will correct the issue.  For any other issues you run into, hop into the G
 Current Build Status
 ---------------------------
 
-.. image:: https://readthedocs.org/projects/burnoutio-test/badge/?version=latest
-    :target: http://burnoutio-test.readthedocs.org/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/burnoutio/badge/?version=latest
+    :target: http://burnoutio.readthedocs.org/en/latest/?badge=latest
     :alt: Documentation Status
 
-.. image:: https://travis-ci.org/AaronSachs/burnout.io-test.svg
-    :target: https://travis-ci.org/AaronSachs/burnout.io-test
+.. image:: https://travis-ci.org/reignite/burnout.io.svg
+    :target: https://travis-ci.org/reignite/burnout.io
     :alt: Travis Build Status
 
 .. _email: mailto:bemosior+burnoutio@gmail.com 
