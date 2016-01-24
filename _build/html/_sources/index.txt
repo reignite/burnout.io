@@ -33,6 +33,6 @@ Table of Contents
    actionables.rst
    moreIdeas.rst
    resources.rst
-   thoughtsOnBurnout.rst
+   furtherReading.rst
    contribute.rst
 
