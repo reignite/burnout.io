@@ -52,7 +52,7 @@ We've all faced burnout--here are some quotes from around the community.
 
     "Humans have the astonishing ability to derive pleasure out of the most unlikely domains, and what could possibly be worse than a disease whose definition is 'the inability to feel pleaseure?'" - `Stanford's Sapolsky On Depression in U.S. <https://www.youtube.com/watch?v=NOAgplgTxfc>`_ - Professor Robert Sapolsky
 
-    "Art and love are the same thin; they're the process of seeing yourself in things that aren't you." -`A Community of People, Not Projects <https://www.youtube.com/watch?v=guC2guiPGRc>`_ - Carter Rabasa
+    "Art and love are the same thing; they're the process of seeing yourself in things that aren't you." -`A Community of People, Not Projects <https://www.youtube.com/watch?v=guC2guiPGRc>`_ - Carter Rabasa
 
     "How’s your heart? How do you feel? What are you not saying that needs to be said?" - `How to Avoid Burnout <https://medium.com/reboot-leadership-resiliency/how-to-avoid-burnout-9690601852d8#.jo8c0ilf7>`_ - Allison Schultz
 
