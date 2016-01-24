@@ -48,11 +48,11 @@ We've all faced burnout--here are some quotes from around the community.
 
     "For many of us, the world we live in requires us to be on far more than the traditional 40 hours a week. In an ongoing effort to drive continuous delivery and improvement of the products and services we build and support, it’s not uncommon to labor, plan, or stress about something related to work outside of the 9-5 business hours. As a result, we risk damaging our relationships, health, or worse." - `Burnout In Tech <https://victorops.com/blog/burnout-in-tech/>`_ - Jason Hand
 
-    `Frustration Driven Development <https://www.youtube.com/watch?v=1BYZCC5khjE>`_ "If you follow what you love, it will come back to you..." - Evan Light
+    "If you follow what you love, it will come back to you..." - `Frustration Driven Development <https://www.youtube.com/watch?v=1BYZCC5khjE>`_ - Evan Light
 
-    `Stanford's Sapolsky On Depression in U.S. <https://www.youtube.com/watch?v=NOAgplgTxfc>`_ - "Humans have the astonishing ability to derive pleasure out of the most unlikely domains, and what could possibly be worse than a disease whose definition is 'the inability to feel pleaseure?'" - Professor Robert Sapolsky
+    "Humans have the astonishing ability to derive pleasure out of the most unlikely domains, and what could possibly be worse than a disease whose definition is 'the inability to feel pleaseure?'" - `Stanford's Sapolsky On Depression in U.S. <https://www.youtube.com/watch?v=NOAgplgTxfc>`_ - Professor Robert Sapolsky
 
-    `A Community of People, Not Projects <https://www.youtube.com/watch?v=guC2guiPGRc>`_ - "Art and love are the same thin; they're the process of seeing yourself in things that aren't you." - Carter Rabasa
+    "Art and love are the same thin; they're the process of seeing yourself in things that aren't you." -`A Community of People, Not Projects <https://www.youtube.com/watch?v=guC2guiPGRc>`_ - Carter Rabasa
 
     "How’s your heart? How do you feel? What are you not saying that needs to be said?" - `How to Avoid Burnout <https://medium.com/reboot-leadership-resiliency/how-to-avoid-burnout-9690601852d8#.jo8c0ilf7>`_ - Allison Schultz
 
