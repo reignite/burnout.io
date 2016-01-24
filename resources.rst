@@ -35,6 +35,6 @@ Online Resources
 * `Mind Mental Health Charity <http://www.mind.org.uk/>`_
 * `LIS Mental Health Doc <http://tiny.cc/LISmentalhealth>`_
 
-Thoughts on Burnout
+Further Reading
 ---------------------------
-There are a number of courageous people in the community talking about burnout, their experiences with it and how they've made progress. Read more about what they have to say at the `Thoughts on Burnout <http://burnoutio-test.readthedocs.org/en/latest/thoughtsOnBurnout.html>`_ page.
+There are a number of courageous people in the community talking about burnout, their experiences with it and how they've made progress. Read more about what they have to say at the `Thoughts on Burnout <furtherReading.rst>`_ page.
