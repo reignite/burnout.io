@@ -33,7 +33,7 @@ Online Resources
 * `BlueHackers <http://BlueHackers.org>`_
 * `Mental Illness Happy Hour <http://mentalpod.com/>`_
 * `Mind Mental Health Charity <http://www.mind.org.uk/>`_
-* `LIS Mental Health Doc <http://tiny.cc/LISmentalhealth >`_
+* `LIS Mental Health Doc <http://tiny.cc/LISmentalhealth>`_
 
 Thoughts on Burnout
 ---------------------------
