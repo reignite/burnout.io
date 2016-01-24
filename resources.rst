@@ -37,4 +37,4 @@ Online Resources
 
 Further Reading
 ---------------------------
-There are a number of courageous people in the community talking about burnout, their experiences with it and how they've made progress. Read more about what they have to say at the `Thoughts on Burnout <furtherReading.rst>`_ page.
+There are a number of courageous people in the community talking about burnout, their experiences with it and how they've made progress. Read more about what they have to say at the `Further reading <furtherReading.rst>`_ page.
