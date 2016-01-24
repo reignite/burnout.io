@@ -1,5 +1,5 @@
 #####################
-Thoughts on Burnout
+Further Reading
 #####################
 
 We've all faced burnout--here are some quotes from around the community.
@@ -43,3 +43,17 @@ We've all faced burnout--here are some quotes from around the community.
     "Suddenly, I realized that something had to give. I was forced to come to terms with how unsustainable my work-life balance had become. At one point, I had thought that my capacity for productivity was limitless. But now both science and my own body were directly contradicting the myth of the superhuman startup worker." - `A Moment to Breathe <http://alistapart.com/article/a-moment-to-breathe>`_ - Nick Cox
 
     "Like everyone else, I thought that the common solution is to take a break and go on a holiday trip with loved ones or simply take a few days away from work once in a while. Holiday trips are always nice, but it didn’t exactly help me much, the effect didn’t last. Occasionally, I found myself to be extremely stressed just 2 days after I came back to work. It’s not because there were tons of work waiting, it’s not because the holidays were too short." - `My secret to getting rid of burnout permanently <http://kentnguyen.com/personal/getting-rid-burnouts/>`_ - Kent Nguyen
+
+    "In the long run, this is not great for companies' overall health and more importantly for a team’s health and morale. There are already statistics about how churn in IT is the highest compared to other fields..." - `On Burnout <http://blog.dbsmasher.com/2015/07/29/on-burnout/>`_ - 
+
+    "For many of us, the world we live in requires us to be on far more than the traditional 40 hours a week. In an ongoing effort to drive continuous delivery and improvement of the products and services we build and support, it’s not uncommon to labor, plan, or stress about something related to work outside of the 9-5 business hours. As a result, we risk damaging our relationships, health, or worse." - `Burnout In Tech <https://victorops.com/blog/burnout-in-tech/>`_ - 
+
+    `Frustration Driven Development <https://www.youtube.com/watch?v=1BYZCC5khjE>`_ "If you follow what you love, it will come back to you..." - Evan Light
+
+    `Stanford's Sapolsky On Depression in U.S. <https://www.youtube.com/watch?v=NOAgplgTxfc>`_ - "Humans have the astonishing ability to derive pleasure out of the most unlikely domains, and what could possibly be worse than a disease whose definition is 'the inability to feel pleaseure?'" - Professor Robert Sapolsky
+
+    `A Community of People, Not Projects <https://www.youtube.com/watch?v=guC2guiPGRc>`_ - "Art and love are the same thin; they're the process of seeing yourself in things that aren't you." - Carter Rabasa
+
+    "How’s your heart? How do you feel? What are you not saying that needs to be said?" - `How to Avoid Burnout <https://medium.com/reboot-leadership-resiliency/how-to-avoid-burnout-9690601852d8#.jo8c0ilf7>`_ - 
+
+    "Because high-achievers are often so passionate about what they do, they tend to ignore the fact that they're working exceptionally long hours, taking on exceedingly heavy work loads, and putting enormous pressure on themselves to excel—all of which make them ripe for burnout." - `The Tell Tale Signs of Burnout <https://www.psychologytoday.com/blog/high-octane-women/201311/the-tell-tale-signs-burnout-do-you-have-them>`_ - 

@@ -32,6 +32,9 @@ Online Resources
 * `National Institute of Mental Health <http://www.nimh.nih.gov>`_
 * `BlueHackers <http://BlueHackers.org>`_
 * `Mental Illness Happy Hour <http://mentalpod.com/>`_
+* `LIS Mental Health Resources <http://tiny.cc/LISmentalhealth>`_
+* `Mind <http://www.mind.org.uk/>`_
+* `GitHub Resource Thread <https://github.com/dopodcast/dopodcast.github.io/issues/12>`_
 
 Thoughts on Burnout
 ---------------------------
