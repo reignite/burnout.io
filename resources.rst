@@ -26,11 +26,12 @@ Online Resources
 * `Mental Health First Aid <http://www.mentalhealthfirstaid.org/>`_
 * `HelpGuide.org <http://helpguide.org/>`_
 * `DevPressed <http://www.devpressed.com/>`_
-* `National Alliance on Mental Illness <http://nami.org">`_
+* `National Alliance on Mental Illness <http://nami.org/>`_
 * `NAMI Local Chapters <http://bit.ly/namilocal>`_
 * `Mental Health America <http://www.mentalhealthamerica.net/>`_
 * `National Institute of Mental Health <http://www.nimh.nih.gov>`_
 * `BlueHackers <http://BlueHackers.org>`_
+* 'Geek Mental Help Week <http://geekmentalhelp.com/>`_
 * `Mental Illness Happy Hour <http://mentalpod.com/>`_
 * `Mind Mental Health Charity <http://www.mind.org.uk/>`_
 * `LIS Mental Health Doc <http://tiny.cc/LISmentalhealth>`_
