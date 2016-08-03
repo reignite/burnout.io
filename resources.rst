@@ -31,7 +31,7 @@ Online Resources
 * `Mental Health America <http://www.mentalhealthamerica.net/>`_
 * `National Institute of Mental Health <http://www.nimh.nih.gov>`_
 * `BlueHackers <http://BlueHackers.org>`_
-* 'Geek Mental Help Week <http://geekmentalhelp.com/>`_
+* `Geek Mental Help Week <http://geekmentalhelp.com/>`_
 * `Mental Illness Happy Hour <http://mentalpod.com/>`_
 * `Mind Mental Health Charity <http://www.mind.org.uk/>`_
 * `LIS Mental Health Doc <http://tiny.cc/LISmentalhealth>`_
