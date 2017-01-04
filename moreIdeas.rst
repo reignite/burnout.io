@@ -23,7 +23,7 @@ A few ways to fuel up at home & work
 ```````````````````````````````````````
 Take micro-breaks and play
 '''''''''''''''''''''''''''''''''''''''
-It can help to take some time for micro-breaks and play. It sounds a bit unconventional to say "play," but it can be a helpful step in breaking the burnout cycle [1]_ .  Micro-breaks can be helpful by taking the step back from the work and getting your mind off of whatever is causing the burnout. Micro-breaks come in a variety of forms:
+It can help to take some time for micro-breaks and play. It sounds a bit unconventional to say "play," but it can be a helpful step in breaking the burnout cycle.  Micro-breaks can be helpful by taking the step back from the work and getting your mind off of whatever is causing the burnout. Micro-breaks come in a variety of forms:
 
 * Getting up from the desk/cube and taking 15 minutes to walk around the office, get outside, and get some air/sunshine
 * Grab a colleague and talk about anything other than the task(s) at hand. This will take practice, but can be beneficial in ways other than taking a break--it may open doors to move to a position that can be less stressful
@@ -54,4 +54,3 @@ Connect with Community
 Whether you are a developer, operations, qe, product management, or in the CXO level you need to have peers to be able to recognize the common problems. We are humans and identify patterns. These patterns can help you discern between "you" issues and "everyone" issues. Talking about burnout as a community for example has helped many recognize that they are not alone! Community time can also help with feelings of loneliness. It is critical that you recognize the cost in interactions as well that may feel like internal stressors.
 
 
-.. [1] http://www.playitaway.me/
