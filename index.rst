@@ -30,9 +30,8 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
-   actionables.rst
-   moreIdeas.rst
-   resources.rst
-   furtherReading.rst
-   contribute.rst
-
+   actionables.md
+   moreIdeas.md
+   resources.md
+   furtherReading.md
+   contribute.md
