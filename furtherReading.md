@@ -19,10 +19,10 @@ We've all faced burnout--here are some quotes from around the community.
 >
 > "Sometimes it's the feelings of burnout... things we struggle with in our jobs, particularly with some of the ill-defined tasks that we get as software developers, and some of the high-stress workplaces that we put ourselves in that demand constant contact and constant availability." - \`Node
 
-  [1]: https://github.com/dmanners/avoiding-burnout/blob/master/Avoiding%20Burnout.pdf
-  [2]: https://speakerdeck.com/mischosch/developers-mental-health
-  [3]: https://github.com/cascadiajs/2015.cascadiajs.com/issues/228
-  [4]: https://medium.com/@jpaulreed/dodging-burnout-4-hours-at-a-time-965f1921e6a2
-  [5]: http://lengstorf.com/overkill-cult/?utm_source=burnout-io
-  [6]: https://www.youtube.com/watch?v=YBoS-svKdgs
-  [7]: https://medium.com/@nobert/a-year-of-fire-and-fog-2c68f90c74e4
+[1]: https://github.com/dmanners/avoiding-burnout/blob/master/Avoiding%20Burnout.pdf
+[2]: https://speakerdeck.com/mischosch/developers-mental-health
+[3]: https://github.com/cascadiajs/2015.cascadiajs.com/issues/228
+[4]: https://medium.com/@jpaulreed/dodging-burnout-4-hours-at-a-time-965f1921e6a2
+[5]: http://lengstorf.com/overkill-cult/?utm_source=burnout-io
+[6]: https://www.youtube.com/watch?v=YBoS-svKdgs
+[7]: https://medium.com/@nobert/a-year-of-fire-and-fog-2c68f90c74e4

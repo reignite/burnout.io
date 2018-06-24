@@ -14,7 +14,7 @@ There's always someone availalbe in our gitter channel. If you'd like to
 talk with someone who's been through the cycle of burnout, reach out!
 We'd love to help in any way we can:
 
-[![Gitter Channel]]
+[![https://badges.gitter.im/Join%20Chat.svg][16]]
 
 You can also find others you can talk to who have gone through similar experiences. There are people at conferences, on [Reddit][1] , on [Twitter][2], and maybe even at your workplace who know what you are going through and can help.
 
@@ -40,21 +40,20 @@ There are a number of courageous people in the community talking about
 burnout, their experiences with it and how they've made progress. Read
 more about what they have to say at the [Further reading] page.
 
-  [Gitter Channel]: https://badges.gitter.im/Join%20Chat.svg
-  [![Gitter Channel]]: https://gitter.im/reignite/burnout.io
-  [1]: http://www.reddit.com/r/sysadmin/search?q=burnout&sort=top&restrict_sr=on
-  [2]: https://twitter.com/search?q=burnout&src=typd
-  [3]: http://www.onlinecolleges.net/for-students/mental-health-resources/
-  [4]: http://www.if-me.org/
-  [5]: http://www.mentalhealthfirstaid.org/
-  [6]: http://helpguide.org/
-  [7]: http://nami.org/
-  [8]: http://bit.ly/namilocal
-  [9]: http://www.mentalhealthamerica.net/
-  [10]: http://www.nimh.nih.gov
-  [11]: http://BlueHackers.org
-  [12]: http://geekmentalhelp.com/
-  [13]: http://mentalpod.com/
-  [14]: http://www.mind.org.uk/
-  [15]: http://tiny.cc/LISmentalhealth
-  [Further reading]: furtherReading.html
+[1]: http://www.reddit.com/r/sysadmin/search?q=burnout&sort=top&restrict_sr=on
+[2]: https://twitter.com/search?q=burnout&src=typd
+[3]: http://www.onlinecolleges.net/for-students/mental-health-resources/
+[4]: http://www.if-me.org/
+[5]: http://www.mentalhealthfirstaid.org/
+[6]: http://helpguide.org/
+[7]: http://nami.org/
+[8]: http://bit.ly/namilocal
+[9]: http://www.mentalhealthamerica.net/
+[10]: http://www.nimh.nih.gov
+[11]: http://BlueHackers.org
+[12]: http://geekmentalhelp.com/
+[13]: http://mentalpod.com/
+[14]: http://www.mind.org.uk/
+[15]: http://tiny.cc/LISmentalhealth
+[16]: https://gitter.im/reignite/burnout.io
+[Further reading]: https://burnout.io/en/latest/furtherReading.html
