@@ -1,77 +1,54 @@
 Contribute
 ==========
 
-We value your ideas! If you'd like to help improve Burnout.io, do
-whatever works best for you:
+We value your ideas! If you'd like to help improve Burnout.io, do whatever works best for you:
 
--   Open an [issue]
--   [Fork] the project and submit a PR
--   Send an [email]
--   Reach out on [twitter]
+- Open an [issue][1]
+- [Fork][2] the project and submit a PR
+- Send an [email][3]
+- Reach out on [twitter][4]
 
 Info for Contributing to Burnout.io
 -----------------------------------
 
--   This project is written in [reStructuredText]
--   Hosted by [Read the Docs]
--   Tested by rendering in [Sphinx] on [Travis CI]
+- This project is written in [reStructuredText][5] and Markdown
+- Hosted by [Read the Docs][6]
+- Tested by rendering in [Sphinx][7] on [Travis CI][8]
 
 If you are looking to add content, fix formatting, syntax, typos or
 other wonderful things, please follow this process:
 
--   Install Sphinx: `easy_install Sphinx sphinx_rtd_theme` or
-    `pip install -r requirements.txt`
--   Fork the repository to your own account
--   Check out a branch to make your changes on:
-    `git checkout --branch <my_topic>`
--   Execute `make html` to build the docs in to `_build/`
--   Make your changes
--   Execute `make html` again and verify your changes don't cause any
-    warnings/errors
--   Commit with a descriptive message, and submit a pull request from
-    your branch to `master`
--   We'll review the change, and either merge it or provide some
-    feedback. Community review is also encouraged.
+- Clone the project
+- Install Sphinx: `pip install -r requirements.txt`
+- Check out a branch to make your changes on: `git checkout --branch <my_topic>`
+- Execute `make html` to build the docs in to `_build/`
+- Make your changes
+- Execute `make html` again and verify your changes don't cause any warnings/errors
+- Commit with a descriptive message, and submit a pull request from your branch to `master`
+- We'll review the change, and either merge it or provide some feedback. Community review is also encouraged.
 
-A quick note if you're adding a new heading:
-
-Sphinx will error out if your title text is longer than the title
-underline. For example:
-`/projects/burnout.io/resources.rst:12: WARNING: Title underline too short.`
-
-And when you look at the title, you see:
-
-    This title is quite long...
-    -----
-
-Which will cause the error. Corrected, the tite would be more like:
-
-    This title is quite long...
-    -----------------------------------
-
-Which will correct the issue. For any other issues you run into, hop
-into the Gitter channel and one of us will help out.
-
-[![Gitter Channel]]
+[![Gitter Channel][9]]
 
 Current Build Status
 --------------------
 
-[![Documentation Status]]
+[![Documentation Status][10]]
 
-[![Travis Build Status]]
+[![Travis Build Status][11]]
 
-  [issue]: https://github.com/reignite/burnout.io/issues/new
-  [Fork]: https://github.com/reignite/burnout.io/fork
-  [email]: mailto:bemosior+burnoutio@gmail.com
-  [twitter]: https://twitter.com/BenjaminMosior
-  [reStructuredText]: http://docutils.sourceforge.net/docs/user/rst/quickstart.html
-  [Read the Docs]: http://readthedocs.org/
-  [Sphinx]: http://sphinx-doc.org/
-  [Travis CI]: https://travis-ci.org
-  [Gitter Channel]: https://badges.gitter.im/Join%20Chat.svg
-  [![Gitter Channel]]: https://gitter.im/reignite/burnout.io
-  [Documentation Status]: https://readthedocs.org/projects/burnoutio/badge/?version=latest
-  [![Documentation Status]]: http://burnoutio.readthedocs.org/en/latest/?badge=latest
-  [Travis Build Status]: https://travis-ci.org/reignite/burnout.io.svg
-  [![Travis Build Status]]: https://travis-ci.org/reignite/burnout.io
+<!-- Links -->
+
+[1]: https://github.com/reignite/burnout.io/issues/new
+[2]: https://github.com/reignite/burnout.io/fork
+[3]: mailto:bemosior+burnoutio@gmail.com
+[4]: https://twitter.com/BenjaminMosior
+[5]: http://docutils.sourceforge.net/docs/user/rst/quickstart.html
+[6]: http://readthedocs.org/
+[7]: http://sphinx-doc.org/
+[8]: https://travis-ci.org
+[9]: https://badges.gitter.im/Join%20Chat.svg
+[10]: https://readthedocs.org/projects/burnoutio/badge/?version=latest
+[11]: https://travis-ci.org/reignite/burnout.io.svg
+[![Gitter Channel]]: https://gitter.im/reignite/burnout.io
+[![Documentation Status]]: http://burnoutio.readthedocs.org/en/latest/?badge=latest
+[![Travis Build Status]]: https://travis-ci.org/reignite/burnout.io
