@@ -47,5 +47,5 @@ Current Build Status
 [7]: http://sphinx-doc.org/
 [8]: https://travis-ci.org
 [9]: https://gitter.im/reignite/burnout.io
-[10]: burnout.io
+[10]: https://burnout.io/en/latest/resources.html
 [11]: https://travis-ci.org/reignite/burnout.io
