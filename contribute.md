@@ -32,7 +32,8 @@ other wonderful things, please follow this process:
 Current Build Status
 --------------------
 
-[![RTD_build_status](http://burnoutio.readthedocs.org/en/latest/?badge=latest)][10]
+[![Documentation Status](//readthedocs.org/projects/burnoutio/badge/?version=latest)](http://burnout.io/en/latest/?badge=latest)
+
 
 [![travis_build_status](https://travis-ci.org/reignite/burnout.io.svg )][11]
 
