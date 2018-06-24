@@ -1,2 +1,4 @@
 Sphinx==1.6.6
 sphinx-rtd-theme==0.2.4
+
+-e git+https://github.com/rtfd/recommonmark.git#egg=recommonmark
