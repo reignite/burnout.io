@@ -47,5 +47,5 @@ For example:
 - "Yes, we'll make sure Feature X is our top priority, and to accommodate the new timeline we can put Features Y and Z on hold until the next release."
 - "Yes, we can plan on adding Project X to our responsibilities, and we can take some time to plan the hiring we'll have to do in order to meet that goal."
 
-  [1]: http://www.liquidplanner.com/blog/defense-dark-art-estimation-bargaining
-  [2]: http://www.huffingtonpost.com/liz-orsquo/cant-say-no-say-yes-instead_b_4583052.html
+[1]: http://www.liquidplanner.com/blog/defense-dark-art-estimation-bargaining
+[2]: http://www.huffingtonpost.com/liz-orsquo/cant-say-no-say-yes-instead_b_4583052.html
