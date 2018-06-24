@@ -2,28 +2,28 @@
 
 [Burnout.io](http://burnout.io) provides resources to prevent IT burnout.
 
-## Contributing
+# Contributing
 
 We value your ideas! If you'd like to help improve Burnout.io, do whatever works best for you:
+
 * Open an [issue](https://github.com/reignite/burnout.io/issues/new),
 * [Fork](https://github.com/reignite/burnout.io/fork) the project and submit a PR,
-* Send an [email](mailto:bemosior+burnoutio@gmail.com), or 
+* Send an [email](mailto:bemosior+burnoutio@gmail.com), or
 * Reach out on [twitter](https://twitter.com/BenjaminMosior).
 
-### Things you should know:
+## Things you should know:
 
 * This project is written in [reStructuredText](http://docutils.sourceforge.net/docs/user/rst/quickstart.html)
 * Hosted by [Read the Docs](http://readthedocs.org/)
 * Tested by rendering in [Sphinx](http://sphinx-doc.org/) on [Travis CI](https://travis-ci.org)
 
-This is the only Markdown file in the repository, as it's not meant to be
-included in the documentation itself.
+The only RST file in the project is the [`index.rst`](index.rst) file. All pages are written in Markdown.
 
 If you are looking to add content, fix formatting, syntax, typos or other
 wonderful things, please follow this process:
 
-* Install Sphinx: `easy_install Sphinx sphinx_rtd_theme` or `pip install -r requirements.txt`
-* Fork the repository to your own account
+* Clone the project
+* Install Sphinx: `pip install -r requirements.txt`
 * Check out a branch to make your changes on: `git checkout --branch <my_topic>`
 * Execute `make html` to build the docs in to `_build/`
 * Make your changes
