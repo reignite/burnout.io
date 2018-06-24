@@ -27,14 +27,14 @@ other wonderful things, please follow this process:
 - Commit with a descriptive message, and submit a pull request from your branch to `master`
 - We'll review the change, and either merge it or provide some feedback. Community review is also encouraged.
 
-[![https://gitter.im/reignite/burnout.io][9]]
+[![](https://badges.gitter.im/Join%20Chat.svg)][9]
 
 Current Build Status
 --------------------
 
-[![http://burnoutio.readthedocs.org/en/latest/?badge=latest][10]]
+[![RTD_build_status](http://burnoutio.readthedocs.org/en/latest/?badge=latest)][10]
 
-[![https://travis-ci.org/reignite/burnout.io][11]]
+[![travis_build_status](https://travis-ci.org/reignite/burnout.io.svg )][11]
 
 <!-- Links -->
 
@@ -46,6 +46,6 @@ Current Build Status
 [6]: http://readthedocs.org/
 [7]: http://sphinx-doc.org/
 [8]: https://travis-ci.org
-[9]: https://badges.gitter.im/Join%20Chat.svg
-[10]: https://readthedocs.org/projects/burnoutio/badge/?version=latest
-[11]: https://travis-ci.org/reignite/burnout.io.svg
+[9]: https://gitter.im/reignite/burnout.io
+[10]: https://burnout.io/en/latest/resources.html
+[11]: https://travis-ci.org/reignite/burnout.io
