@@ -14,7 +14,7 @@ There's always someone availalbe in our gitter channel. If you'd like to
 talk with someone who's been through the cycle of burnout, reach out!
 We'd love to help in any way we can:
 
-[![https://badges.gitter.im/Join%20Chat.svg][16]]
+[![](https://badges.gitter.im/Join%20Chat.svg)][16]
 
 You can also find others you can talk to who have gone through similar experiences. There are people at conferences, on [Reddit][1] , on [Twitter][2], and maybe even at your workplace who know what you are going through and can help.
 

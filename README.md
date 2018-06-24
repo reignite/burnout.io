@@ -13,7 +13,7 @@ We value your ideas! If you'd like to help improve Burnout.io, do whatever works
 
 ## Things you should know:
 
-* This project is written in [reStructuredText](http://docutils.sourceforge.net/docs/user/rst/quickstart.html)
+* This project is written in [reStructuredText](http://docutils.sourceforge.net/docs/user/rst/quickstart.html) and Markdown
 * Hosted by [Read the Docs](http://readthedocs.org/)
 * Tested by rendering in [Sphinx](http://sphinx-doc.org/) on [Travis CI](https://travis-ci.org)
 
