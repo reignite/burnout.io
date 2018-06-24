@@ -53,7 +53,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'burnout.io'
-copyright = u'2015, burnout.io'
+copyright = u'2018, burnout.io'
 author = u'burnout.io'
 
 # The version info for the project you're documenting, acts as replacement for
