@@ -56,4 +56,4 @@ more about what they have to say at the [Further reading] page.
 [14]: http://www.mind.org.uk/
 [15]: http://tiny.cc/LISmentalhealth
 [16]: https://gitter.im/reignite/burnout.io
-[Further reading]: furtherReading.html
+[Further reading]: https://burnout.io/en/latest/furtherReading.html
