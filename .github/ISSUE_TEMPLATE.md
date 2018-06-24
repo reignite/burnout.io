@@ -2,10 +2,10 @@
 
 ## This is an issue with:
 
-- [  ] Bug (site functionality or styling)
-- [  ] Errata (fix needed for doc content)
-- [  ] New content (article wanted)
-- [  ] Update (Add missing or refresh existing content)
+- [ ] Bug (site functionality or styling)
+- [ ] Errata (fix needed for doc content)
+- [ ] New content (article wanted)
+- [ ] Update (Add missing or refresh existing content)
 
 ## Expected Behavior
 <!--- If describing a bug, tell us what should happen -->
