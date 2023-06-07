@@ -1,15 +1,13 @@
 [![Documentation Status](https://readthedocs.org/projects/burnoutio/badge/?version=latest)](http://burnoutio.readthedocs.org/en/latest/?badge=latest)  [![Build Status](https://travis-ci.org/reignite/burnout.io.svg?branch=master)](https://travis-ci.org/reignite/burnout.io)  [![Join the chat at https://gitter.im/reignite/burnout.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reignite/burnout.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[Burnout.io](http://burnout.io) provides resources to prevent IT burnout.
+Burnout.io provides resources to prevent IT burnout. It has moved to: [burnoutio.readthedocs.io](https://burnoutio.readthedocs.io/en/latest/)
 
 # Contributing
 
 We value your ideas! If you'd like to help improve Burnout.io, do whatever works best for you:
 
 * Open an [issue](https://github.com/reignite/burnout.io/issues/new),
-* [Fork](https://github.com/reignite/burnout.io/fork) the project and submit a PR,
-* Send an [email](mailto:bemosior+burnoutio@gmail.com), or
-* Reach out on [twitter](https://twitter.com/BenjaminMosior).
+* [Fork](https://github.com/reignite/burnout.io/fork) the project and submit a PR
 
 ## Things you should know:
 
