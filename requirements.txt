@@ -1,4 +1,4 @@
-Sphinx==1.6.6
-sphinx-rtd-theme==0.2.4
-
--e git+https://github.com/rtfd/recommonmark.git#egg=recommonmark
+Sphinx==7.4.7
+sphinx-rtd-theme==2.0.0
+myst-parser==4.0.1
+sphinxcontrib-jquery==4.1
